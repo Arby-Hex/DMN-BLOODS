@@ -33,4 +33,4 @@ install:
 	pip install cloudscraper
 	pip install pillow --prefer-binary
 	pip install psutil
-	python main.py
+	python main.pyc
