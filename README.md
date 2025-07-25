@@ -32,14 +32,10 @@ python main.pyc
 👤 Santai Lek, Itu Bukan Permasalahan. Kamu Cukup Jalankan Command Ini Saja
 ```
 cd $HOME
-```
-```
 cd SECRET_DMNV3
-```
-```
 python main.pyc
 ```
-> Easy Bukan?
+👤 Gausah Takut Kalau Termux Kembali Ke Awal Lagi
 
 <h1>THIS IS THE LOOK OF THE SECRET DAEMONIUM TOOLS</h1>
 <img src="https://img1.pixhost.to/images/7403/624985534_kenjaa.jpg" alt="Secret Daemonium" width="300" style="border-radius: 10px;" />
