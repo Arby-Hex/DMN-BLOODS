@@ -25,7 +25,7 @@ cd SECRET_DMNV3
 make install
 python main.pyc
 ```
-Informasi Setiap Update Akan Diinformasikan Di Saluran WhatsApp 
+Informasi Update Akan Diinformasikan Di Saluran WhatsApp 
 
 # DRAMA BOCIL TERMUX PEMULA
 🗣️ Bang Tadi Saya Udah Lakuin Semua Instalasinya Lalu Udah Bisa Masuk Toolsnya. Trus Saya Tadi Ga Sengaja Kepencet Exit, Jadinya Termux Saya Dari Paling Awal Lagi. Apakah Saya Harus Lakukan Semua Kode Instalasi Yang Di Atas Lagi?
