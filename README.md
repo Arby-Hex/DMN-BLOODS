@@ -27,6 +27,8 @@ python main.pyc
 ```
 Informasi Update Akan Diinformasikan Di Saluran WhatsApp 
 
+> Terakhir Update Tanggal 25-07-2025
+
 # DRAMA BOCIL TERMUX PEMULA
 🗣️ Bang Tadi Saya Udah Lakuin Semua Instalasinya Lalu Udah Bisa Masuk Toolsnya. Trus Saya Tadi Ga Sengaja Kepencet Exit, Jadinya Termux Saya Dari Paling Awal Lagi. Apakah Saya Harus Lakukan Semua Kode Instalasi Yang Di Atas Lagi?
 
