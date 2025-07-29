@@ -40,15 +40,12 @@ python main.pyc
 ```
 👤 Gausah Takut Kalau Termux Kembali Ke Awal Lagi
 
-<h1>THIS IS THE LOOK OF THE SECRET DAEMONIUM TOOLS</h1>
-<img src="https://img1.pixhost.to/images/7403/624985534_kenjaa.jpg" alt="Secret Daemonium" width="300" style="border-radius: 10px;" />
+<h1>Ini Adalah Contoh Tampilan Toolsnya</h1>
 
-<a href="https://whatsapp.com/channel/0029Vb6VXlNK5cDJkIjUxi17">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40"/>
-</a>
-<a href="https://www.tiktok.com/@viper_exe9">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/TikTok_logo.svg" alt="TikTok" width="40"/>
-</a>
-<a href="https://github.com/usernamekamu">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40"/>
-</a>
+<details>
+  <summary>Click to see image 🔥</summary>
+
+  <img src="https://img1.pixhost.to/images/7403/624985534_kenjaa.jpg" alt="Secret Daemonium" width="300" style="border-radius: 10px;" />
+</details>
+
+[![Chanel WhatsApp](https://img.shields.io/badge/Chanel-WhatsApp-green?logo=whatsapp)](https://whatsapp.com/channel/0029Vb6VXlNK5cDJkIjUxi17) [![TikTok](https://img.shields.io/badge/TikTok-Profile-black?logo=tiktok)](https://www.tiktok.com/@viper_exe9)[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/usernamekamu)
