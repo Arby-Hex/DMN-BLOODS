@@ -1,5 +1,5 @@
 # ⚙️ INSTALASI FOR TERMUX
-```
+```bash
 pkg update && pkg upgrade -y
 pkg install python -y
 pkg install python-pip
