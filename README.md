@@ -18,12 +18,7 @@ python main.pyc
 # UPDATE REPOSITORY
 Berhubung Sebelumnya ada Perubahan File, Jadi Silahkan Lakukan Update Bagi Yang Sebelumnya Sudah Clone Repository Ini. Jalankan Command Berikut
 ```
-cd
-rm -rf SECRET_DMNV3
-git clone https://github.com/Arby-Hex/SECRET_DMNV3/
-cd SECRET_DMNV3
-make install
-python main.pyc
+cd ~/Hacking-Tools && git pull
 ```
 Informasi Update Akan Diinformasikan Di Saluran WhatsApp 
 
