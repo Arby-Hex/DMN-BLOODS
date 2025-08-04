@@ -18,7 +18,7 @@ python main.pyc
 # UPDATE REPOSITORY
 Berhubung Sebelumnya ada Perubahan File, Jadi Silahkan Lakukan Update Bagi Yang Sebelumnya Sudah Clone Repository Ini. Jalankan Command Berikut
 ```
-cd ~/Hacking-Tools && git pull
+cd ~/SECRET_DMNV3&& git pull
 ```
 Informasi Update Akan Diinformasikan Di Saluran WhatsApp 
 
