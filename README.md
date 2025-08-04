@@ -1,8 +1,3 @@
-# SECRET DAEMONIUM VIP FASE 3
-Tools Daemonium Kesayangan Kalian Sudah Rilis Versi Terbaru Nih Gess
-
-Langsung Aja Ke Proses Instalasinya
-
 # ⚙️ INSTALASI FOR TERMUX
 ```
 pkg update && pkg upgrade -y
@@ -10,19 +5,19 @@ pkg install python -y
 pkg install python-pip
 pkg install make
 pkg install git -y
-git clone https://github.com/Arby-Hex/SECRET_DMNV3/
-cd SECRET_DMNV3/
+git clone https://github.com/Arby-Hex/DMN-BLOODS/
+cd DMN-BLOODS/
 make install
-python main.pyc
+python start.pyc
 ```
 # UPDATE REPOSITORY
 Berhubung Sebelumnya ada Perubahan File, Jadi Silahkan Lakukan Update Bagi Yang Sebelumnya Sudah Clone Repository Ini. Jalankan Command Berikut
 ```
-cd ~/SECRET_DMNV3 && git pull
+cd ~/DMN-BLOODS && git pull
 ```
 Informasi Update Akan Diinformasikan Di Saluran WhatsApp 
 
-> Terakhir Update Tanggal 25-07-2025
+> Update Tanggal 05-AGU-2025
 
 # DRAMA BOCIL TERMUX PEMULA
 🗣️ Bang Tadi Saya Udah Lakuin Semua Instalasinya Lalu Udah Bisa Masuk Toolsnya. Trus Saya Tadi Ga Sengaja Kepencet Exit, Jadinya Termux Saya Dari Paling Awal Lagi. Apakah Saya Harus Lakukan Semua Kode Instalasi Yang Di Atas Lagi?
@@ -30,8 +25,8 @@ Informasi Update Akan Diinformasikan Di Saluran WhatsApp
 👤 Santai Lek, Itu Bukan Permasalahan. Kamu Cukup Jalankan Command Ini Saja
 ```
 cd $HOME
-cd SECRET_DMNV3
-python main.pyc
+cd DMN-BLOODS
+python start.pyc
 ```
 👤 Gausah Takut Kalau Termux Kembali Ke Awal Lagi
 
