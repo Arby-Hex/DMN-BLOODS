@@ -13,7 +13,7 @@ python start.pyc
 ```
 # UPDATE REPOSITORY
 Berhubung Sebelumnya ada Perubahan File, Jadi Silahkan Lakukan Update Bagi Yang Sebelumnya Sudah Clone Repository Ini. Jalankan Command Berikut
-```
+```bash
 cd ~/DMN-BLOODS && git pull
 ```
 Informasi Update Akan Diinformasikan Di Saluran WhatsApp 
@@ -24,7 +24,7 @@ Informasi Update Akan Diinformasikan Di Saluran WhatsApp
 🗣️ Bang Tadi Saya Udah Lakuin Semua Instalasinya Lalu Udah Bisa Masuk Toolsnya. Trus Saya Tadi Ga Sengaja Kepencet Exit, Jadinya Termux Saya Dari Paling Awal Lagi. Apakah Saya Harus Lakukan Semua Kode Instalasi Yang Di Atas Lagi?
 
 👤 Santai Lek, Itu Bukan Permasalahan. Kamu Cukup Jalankan Command Ini Saja
-```
+```bash
 cd $HOME
 cd DMN-BLOODS
 python start.pyc
