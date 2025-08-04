@@ -31,10 +31,10 @@ python start.pyc
 ```
 👤 Gausah Takut Kalau Termux Kembali Ke Awal Lagi
 
-<h1>Ini Adalah Contoh Tampilan Toolsnya</h1>
+<h1>📸 SCREENSHOT 📸</h1>
 
 <details>
-  <summary>Click to see image 🔥</summary>
+  <summary>PENCET BUAT LIAT GAMBARNYA</summary>
 
   <img src="https://files.catbox.moe/zoj6gl.png" alt="Secret Daemonium" width="300" style="border-radius: 10px;" />
 </details>
