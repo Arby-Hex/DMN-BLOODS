@@ -7,6 +7,7 @@ pkg install make
 pkg install git -y
 git clone https://github.com/Arby-Hex/DMN-BLOODS/
 cd DMN-BLOODS/
+pip install psutil
 make install
 python start.pyc
 ```
